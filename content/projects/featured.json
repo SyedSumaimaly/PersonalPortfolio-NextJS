@@ -1,59 +1,259 @@
 [
   {
-    "project": "Promptopia",
-    "url": "https://promptopi.vercel.app/",
+    "project": "Chat App",
+    "url": "https://github.com/SyedSumaimaly/Chat-App-Frontend",
     "repo": "Public",
-    "descriptionTitle": "Elevate your creative journey with Propmtopia",
-    "description": "turning ideas into vibrant realities through intelligent suggestions.",
+    "descriptionTitle": "Instant Chat: Connect and Communicate Seamlessly",
+    "description": "Stay connected with friends, family, or colleagues in real time. Enjoy fast and reliable messaging with our instant chat app.",
     "imageOptions": [],
     "images": [
       {
-        "key": "mock-stack",
+        "key": "Chat App",
         "hover": "right",
-        "h": "610",
-        "w": "556",
-        "url": "/img/msc-mock_stack/03.png"
+        "h": "500",
+        "w": "580",
+        "url": "/img/ChatApp.png"
       },
       {
-        "key": "mock-stack",
+        "key": "Chat App",
         "hover": "left",
-        "h": "610",
-        "w": "556",
-        "url": "/img/msc-mock_stack/01.png"
+        "h": "510",
+        "w": "580",
+       "url": "/img/ChatApp.png"
       }
     ],
     "stack": [
-      { "key": "javascript", "name": "JavaScript", "type": "devicon" },
-      { "key": "nextjs", "name": "Next Js", "type": "devicon" },
-      { "key": "mongodb", "name": "Mongo DB", "type": "devicon" },
-      { "key": "html5", "name": "HTML5", "type": "devicon" },
-      { "key": "css3", "name": "CSS3", "type": "devicon" },
-      { "key": "git", "name": "Git(Hub)", "type": "devicon" }
+      {
+        "key": "javascript",
+        "name": "JavaScript",
+        "type": "devicon"
+      },
+      {
+        "key": "react",
+        "name": "ReactJS",
+        "type": "devicon"
+      },
+      {
+        "key": "css3",
+        "name": "CSS3",
+        "type": "devicon"
+      },
+      {
+        "key": "socketio",
+        "name": "Socket.IO",
+        "type": "devicon"
+      },
+      {
+        "key": "nodejs",
+        "name": "NodeJS",
+        "type": "devicon"
+      },
+      {
+        "key": "express",
+        "name": "ExpressJS",
+        "type": "devicon"
+      },
+      {
+        "key": "git",
+        "name": "Git(Hub)",
+        "type": "devicon"
+      }
     ]
   },
   {
-    "project": "Job Search",
-    "url": "https://github.com/mbilal-09/job-search-app",
+    "project": "Todo App",
+    "url": "https://todo-app-react-sumaim.netlify.app/",
     "repo": "Public",
-    "descriptionTitle": "Land your dream job effortlessly with Job Search App",
-    "description": "simplifying the search and application process for your ideal job.",
-    "imageOptions": [{ "key": "size", "value": "large" }],
+    "descriptionTitle": "Todo App: Organize Tasks Effortlessly",
+    "description": "Stay organized and on top of your tasks with our intuitive Todo App",
+    "imageOptions": [
+      {
+        "key": "size",
+        "value": "large"
+      }
+    ],
+    "images": [
+      {
+        "key": "Todo-App",
+        "hover": "left",
+        "h": "380",
+        "w": "550",
+        "url": "/img/TodoApp.png"
+      }
+    ],
+    "stack": [
+      {
+        "key": "javascript",
+        "name": "JavaScript",
+        "type": "devicon"
+      },
+      {
+        "key": "react",
+        "name": "ReactJS",
+        "type": "devicon"
+      },
+      {
+        "key": "css3",
+        "name": "CSS3",
+        "type": "devicon"
+      },
+      {
+        "key": "git",
+        "name": "Git(Hub)",
+        "type": "devicon"
+      }
+    ]
+  },
+  {
+    "project": "Webcam App",
+    "url": "https://webcam-app-sumaim.netlify.app/",
+    "repo": "Public",
+    "descriptionTitle": "Webcam App: Capture with Ease",
+    "description": "Effortlessly capture photos or record videos with our user-friendly webcam app. Stay connected and create content in high quality.",
+    "imageOptions": [
+      {
+        "key": "size",
+        "value": "large"
+      }
+    ],
+    "images": [
+      {
+        "key": "Webcam-App",
+        "hover": "right",
+        "h": "450",
+        "w": "556",
+        "url": "/img/webcam.jpg"
+      }
+    ],
+    "stack": [
+      {
+        "key": "javascript",
+        "name": "JavaScript",
+        "type": "devicon"
+      },
+      {
+        "key": "react",
+        "name": "ReactJS",
+        "type": "devicon"
+      },
+      {
+        "key": "reactrouter",
+        "name": "React Router Dom",
+        "type": "devicon"
+      },
+      {
+        "key": "css3",
+        "name": "CSS3",
+        "type": "devicon"
+      },
+      {
+        "key": "git",
+        "name": "Git(Hub)",
+        "type": "devicon"
+      }
+    ]
+  },
+  {
+    "project": "Quiz App",
+    "url": "https://sumaim-quiz-app-react.netlify.app/",
+    "repo": "Public",
+    "descriptionTitle": "Quiz App: Test Your Knowledge and Have Fun",
+    "description": "Challenge yourself with a variety of quizzes and expand your knowledge. Enjoy interactive learning and fun competition with our easy-to-use quiz app.",
+    "imageOptions": [
+      {
+        "key": "size",
+        "value": "large"
+      }
+    ],
+    "images": [
+      {
+        "key": "Quiz-App",
+        "hover": "left",
+        "h": "480",
+        "w": "556",
+        "url": "/img/quizapp.jpg"
+      }
+    ],
+    "stack": [
+      {
+        "key": "javascript",
+        "name": "JavaScript",
+        "type": "devicon"
+      },
+      {
+        "key": "react",
+        "name": "ReactJS",
+        "type": "devicon"
+      },
+      {
+        "key": "reactrouter",
+        "name": "React Router Dom",
+        "type": "devicon"
+      },
+      {
+        "key": "css3",
+        "name": "CSS3",
+        "type": "devicon"
+      },
+      {
+        "key": "antdesign",
+        "name": "Ant Design",
+        "type": "devicon"
+      },
+      {
+        "key": "materialui",
+        "name": "MaterialUI",
+        "type": "devicon"
+      },
+      {
+        "key": "git",
+        "name": "Git(Hub)",
+        "type": "devicon"
+      }
+    ]
+  },
+  {
+    "project": "Learned Website (Practice)",
+    "url": "https://digitologies-learned-sumaim.netlify.app/",
+    "repo": "Public",
+    "descriptionTitle": "Frontend Practice: Sharpen Your Web Development Skills",
+    "description": "Improve your frontend development skills with hands-on coding challenges and real-world projects. Learn, practice, and build confidence in HTML, CSS, and JavaScript with our interactive platform.",
+    "imageOptions": [
+      {
+        "key": "size",
+        "value": "large"
+      }
+    ],
     "images": [
       {
         "key": "portfolio",
-        "hover": "left",
+        "hover": "right",
         "h": "797",
         "w": "556",
         "url": "/img/portfolio-mock_single.png"
       }
     ],
     "stack": [
-      { "key": "javascript", "name": "JavaScript", "type": "devicon" },
-      { "key": "react", "name": "React Native", "type": "devicon" },
-      { "key": "html5", "name": "HTML5", "type": "devicon" },
-      { "key": "css3", "name": "CSS3", "type": "devicon" },
-      { "key": "sass", "name": "SCSS", "type": "devicon" },
-      { "key": "git", "name": "Git(Hub)", "type": "devicon" }
+      {
+        "key": "html5",
+        "name": "HTML:5",
+        "type": "devicon"
+      },
+      {
+        "key": "css3",
+        "name": "CSS3",
+        "type": "devicon"
+      },
+      {
+        "key": "bootstrap",
+        "name": "Bootstrap5",
+        "type": "devicon"
+      },
+      {
+        "key": "git",
+        "name": "Git(Hub)",
+        "type": "devicon"
+      }
     ]
   }
 ]

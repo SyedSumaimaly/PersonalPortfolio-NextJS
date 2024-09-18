@@ -1,7 +1,7 @@
 {
   "acknowledgments": [
     {
-      "person": "Muhammad Bilal - Mern Stack Developer",
+      "person": "Muhammad Sumaim - Full-Stack Web Developer",
       "link": "/",
       "note": "Thank you for visiting."
     }
@@ -17,20 +17,12 @@
 
   "social": [
     {
-      "url": "https://github.com/mbilal-09",
+      "url": "https://github.com/SyedSumaimaly",
       "icon": "github"
     },
     {
-      "url": "https://www.linkedin.com/in/bilal09",
+      "url": "https://www.linkedin.com/in/syed-sumaim-ali/",
       "icon": "linkedin"
-    },
-    {
-      "url": "https://twitter.com/mbilal_2004",
-      "icon": "twitter"
-    },
-    {
-      "url": "https://www.facebook.com/mbilal.2004",
-      "icon": "facebook"
     }
   ]
 }

@@ -15,7 +15,7 @@ export default function Section({ classProp, children }) {
 	const _class = classProp ? classProp : '';
 
 	return (
-		<div className={`${sections.default} ${_class}`} data-aos="fade-up">
+		<div className={`${sections.default} ${_class}`}>
 			{children}
 		</div>
 	);

@@ -79,26 +79,27 @@ export default function Technical() {
 
 const software = [
   { key: "vscode", name: "VSCode", type: "devicon" },
-  { key: "minitab", name: "Replit", type: "devicon" },
-  { key: "mailbox", name: "Postman", type: "fas" },
-  { key: "androidstudio", name: "Android Studio", type: "devicon" },
-  { key: "illustrator", name: "Illustrator", type: "devicon" },
-  { key: "photoshop", name: "Photoshop", type: "devicon" },
   { key: "canva", name: "Canva", type: "devicon" },
   { key: "trello", name: "Trello", type: "devicon" },
   { key: "slack", name: "Slack", type: "devicon" },
 ];
 
 const tech = [
+  { key: "html5", name: "HTML5", type: "devicon" },
+  { key: "css3", name: "CSS3", type: "devicon" },
   { key: "javascript", name: "JavaScript", type: "devicon" },
-  { key: "typescript", name: "Typescript", type: "devicon" },
-  { key: "react", name: "React", type: "devicon" },
-  { key: "nextjs", name: "NextJS", type: "devicon" },
-  { key: "nodejs", name: "NodeJS", type: "devicon" },
-  { key: "mongodb", name: "MongoDB", type: "devicon" },
-  { key: "sass", name: "SASS", type: "devicon" },
+  { key: "react", name: "React.js", type: "devicon" },
+  { key: "nextjs", name: "Next.js", type: "devicon" },
+  { key: "vitejs", name: "Vite.js", type: "devicon" },
+  { key: "nodejs", name: "Node.js", type: "devicon" },
+  { key: "express", name: "Express.js", type: "devicon" },
+  { key: "git", name: "Git", type: "devicon" },
+  { key: "npm", name: "NPM", type: "devicon" },
+  { key: "bootstrap", name: "Bootstrap", type: "devicon" },
   { key: "tailwindcss", name: "Tailwind CSS", type: "devicon" },
   { key: "firebase", name: "Firebase", type: "devicon" },
-  { key: "react", name: "React Native", type: "devicon" },
-  { key: "wordpress", name: "WordPress", type: "devicon" }
+  { key: "mongodb", name: "Mongo DB", type: "devicon" },
+  { key: "postman", name: "Postman", type: "devicon" },
+  { key: "wordpress", name: "WordPress", type: "devicon" },
+  { key: "woocommerce", name: "WooCommerce", type: "devicon" },
 ];

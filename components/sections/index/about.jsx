@@ -29,18 +29,12 @@ export default function About() {
       <Container spacing={["verticalXXXLrg"]}>
         <SectionTitle
           title="About Me"
-          preTitle="Developer"
-          subTitle="An inquisitive Mern Stack Developer on a mission to conquer every tech stack with a touch of madness and a lot of innovation."
+          preTitle="Passionat Full-Stack Web Developer"
+          subTitle="Passionate Full-Stack Web Developer currently pursuing a BS in Computer Science from Iqra University. I specialize in building responsive, user-friendly web applications using React.js, JavaScript, and CSS, with foundational knowledge of Node.js, Express.js, and React Native. I also have experience working with WordPress for content management and website development. Eager to continue learning and growing while contributing innovative design and development solutions across web platforms."
         />
         <section className={about.content}>
-          <div
-            className={about.image}
-            data-aos="flip-left"
-            data-aos-delay="100"
-            data-aos-duration="1000"
-          >
-            <img src="/img/profile-photo.jpg" alt="Nelson family photo" />
-            {/* <Image src="/img/family-photo.jpg" width={600} height={800}/> */}
+          <div className={about.image}>
+            <img src="/img/Sumaim.png" alt="Profile Photo" />
           </div>
           <div className={about.copy}>
             <CopyBlock
@@ -70,9 +64,7 @@ export default function About() {
 
 const methods = [
   { key: "planet-moon", name: "Web Application", type: "fad" },
-  { key: "qrcode", name: "Mobile Application", type: "fad" },
   { key: "window", name: "Responsive Design", type: "fad" },
   { key: "cubes", name: "Leadership", type: "far" },
-  { key: "layer-plus", name: "Designing", type: "fad" },
   { key: "solar-system", name: "Multi-Tasking", type: "fad" },
 ];
