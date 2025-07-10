@@ -19,7 +19,7 @@
         "hover": "left",
         "h": "510",
         "w": "580",
-       "url": "/img/ChatApp.png"
+        "url": "/img/ChatApp.png"
       }
     ],
     "stack": [
@@ -52,6 +52,203 @@
         "key": "express",
         "name": "ExpressJS",
         "type": "devicon"
+      },
+      {
+        "key": "git",
+        "name": "Git(Hub)",
+        "type": "devicon"
+      }
+    ]
+  },
+  {
+    "project": "Metfix",
+    "url": "https://metfixsklep.pl/",
+    "repo": "Public",
+    "descriptionTitle": "Metfix – Industrial Fasteners WordPress Website",
+    "description": "Built a responsive and SEO-optimized WordPress website for Metfix, a Polish company specializing in industrial fasteners. The site includes dynamic product listings, multilingual support, and a modern UI powered by Elementor and WooCommerce.",
+    "imageOptions": [
+      {
+        "key": "size",
+        "value": "large"
+      }
+    ],
+    "images": [
+      {
+        "key": "portfolio",
+        "hover": "right",
+        "h": "600",
+        "w": "600",
+        "url": "/img/Metfixs.png"
+      }
+    ],
+    "stack": [
+      {
+        "key": "wordpress",
+        "name": "WordPress",
+        "type": "devicon"
+      },
+      {
+        "key": "php",
+        "name": "PHP",
+        "type": "devicon"
+      },
+      {
+        "key": "html5",
+        "name": "HTML5",
+        "type": "devicon"
+      },
+      {
+        "key": "css3",
+        "name": "CSS3",
+        "type": "devicon"
+      },
+      {
+        "key": "javascript",
+        "name": "JavaScript",
+        "type": "devicon"
+      },
+      {
+        "key": "elementor",
+        "name": "Elementor",
+        "type": "custom"
+      },
+      {
+        "key": "woocommerce",
+        "name": "WooCommerce",
+        "type": "custom"
+      },
+      {
+        "key": "git",
+        "name": "Git(Hub)",
+        "type": "devicon"
+      }
+    ]
+  },
+  {
+    "project": "THC",
+    "url": "http://thcnew.thc.com.ua/",
+    "repo": "Public",
+    "descriptionTitle": "THC – Corporate WordPress Website",
+    "description": "Developed a modern and responsive corporate website for THC using WordPress. The site features a clean layout, service-oriented sections, and multi-language capabilities, enhancing accessibility and brand presence for a broader audience.",
+    "imageOptions": [
+      {
+        "key": "size",
+        "value": "large"
+      }
+    ],
+    "images": [
+      {
+        "key": "portfolio",
+        "hover": "right",
+        "h": "600",
+        "w": "600",
+        "url": "/img/THC.png"
+      }
+    ],
+    "stack": [
+      {
+        "key": "wordpress",
+        "name": "WordPress",
+        "type": "devicon"
+      },
+      {
+        "key": "php",
+        "name": "PHP",
+        "type": "devicon"
+      },
+      {
+        "key": "html5",
+        "name": "HTML5",
+        "type": "devicon"
+      },
+      {
+        "key": "css3",
+        "name": "CSS3",
+        "type": "devicon"
+      },
+      {
+        "key": "javascript",
+        "name": "JavaScript",
+        "type": "devicon"
+      },
+      {
+        "key": "elementor",
+        "name": "Elementor",
+        "type": "custom"
+      },
+      {
+        "key": "woocommerce",
+        "name": "WooCommerce",
+        "type": "custom"
+      },
+      {
+        "key": "git",
+        "name": "Git(Hub)",
+        "type": "devicon"
+      }
+    ]
+  },
+  {
+    "project": "Chat GPT Clone",
+    "url": "https://gpt-clone-iunc.netlify.app/",
+    "repo": "Public",
+    "descriptionTitle": "ChatGPT Clone – AI Chatbot Web App",
+    "description": "Built a fully functional ChatGPT-like chatbot using HTML, CSS (Tailwind), and Firebase. The app supports user authentication, chat saving, and real-time interaction with a clean, responsive UI inspired by the original ChatGPT interface.",
+    "imageOptions": [
+      {
+        "key": "size",
+        "value": "large"
+      }
+    ],
+    "images": [
+      {
+        "key": "portfolio",
+        "hover": "right",
+        "h": "700",
+        "w": "700",
+        "url": "/img/GPT-CLONE.png"
+      }
+    ],
+    "stack": [
+      {
+        "key": "html5",
+        "name": "HTML5",
+        "type": "devicon"
+      },
+      {
+        "key": "css3",
+        "name": "CSS3",
+        "type": "devicon"
+      },
+      {
+        "key": "tailwindcss",
+        "name": "Tailwind CSS",
+        "type": "custom"
+      },
+      {
+        "key": "javascript",
+        "name": "JavaScript",
+        "type": "devicon"
+      },
+      {
+        "key": "react",
+        "name": "React",
+        "type": "devicon"
+      },
+      {
+        "key": "firebase",
+        "name": "Firebase",
+        "type": "custom"
+      },
+      {
+        "key": "openrouter",
+        "name": "OpenRouter API",
+        "type": "custom"
+      },
+      {
+        "key": "netlify",
+        "name": "Netlify",
+        "type": "custom"
       },
       {
         "key": "git",
